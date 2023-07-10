@@ -1,4 +1,6 @@
 React native app to search for jobs using jsearch API
+
+[Link](https://expo.dev/artifacts/eas/5JWNwN4DMdPE9hsAkcALN4.apk) to download apk file
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
